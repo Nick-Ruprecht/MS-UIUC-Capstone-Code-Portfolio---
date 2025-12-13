@@ -24,9 +24,9 @@ This work draws on **Simpson et al. (2023)** for context on CESM2 single-forcing
 
 2. **Methodology**
    - ENSO classification using r–θ framework (Zhiyuan et al. 2019; Ham et al. 2019)  
-   - Percentile-based thresholding (top 60% r values)  
+   - Standard deviation–based thresholding (±1σ of r values)  
    - Seasonal DJF composites relative to climatology  
-   - Regridding CESM2 POP outputs to observational grid  
+   - Regridding CESM2 POP outputs to observational grid 
 
 3. **Analysis**
    - ENSO type frequencies across scenarios (GHG2, AAER2, LENS2, Observations)  
